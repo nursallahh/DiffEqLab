@@ -1,0 +1,22 @@
+# CMake & Build
+build/
+out/
+CMakeUserPresets.json
+.vs/
+*.user
+
+# IDE
+.vscode/
+*.swp
+
+# Env / Secrets
+.env
+
+# Unity (Faz 3+)
+unity/*/Library/
+unity/*/Temp/
+unity/*/Obj/
+unity/*/Logs/
+unity/*/UserSettings/
+*.csproj
+*.sln
